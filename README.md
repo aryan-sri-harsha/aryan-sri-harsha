@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack developer, currently learning java spring boot. <br>I would love to work on Full sstack Projects
+I am a full stack developer, currently learning java spring boot. <br>
 
 
 ## 🌐 Socials:
